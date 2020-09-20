@@ -1,0 +1,6 @@
+.tagline {
+    font-size: 4rem;
+    animation: blink 0.3s infinite;
+    animation-direction: alternate;
+    color: #fff;
+}
